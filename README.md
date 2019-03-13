@@ -20,6 +20,10 @@
 5. Berikan code query untuk menghapus sebuah data yang ada pada ke database?
 - $query = "DELETE FROM dosen WHERE id_dosen = $id_dosen";
 
+
+![alt text]( https://github.com/nabilajr/hasil-modul7/blob/master/Screenshot%20(194).png)
+![alt text]( https://github.com/nabilajr/hasil-modul7/blob/master/Screenshot%20(195).png)
+![alt text]( https://github.com/nabilajr/hasil-modul7/blob/master/Screenshot%20(196).png)
 ![alt text]( https://github.com/nabilajr/hasil-modul7/blob/master/Screenshot%20(189).png)
 ![alt text]( https://github.com/nabilajr/hasil-modul7/blob/master/Screenshot%20(190).png)
 ![alt text]( https://github.com/nabilajr/hasil-modul7/blob/master/Screenshot%20(191).png)
